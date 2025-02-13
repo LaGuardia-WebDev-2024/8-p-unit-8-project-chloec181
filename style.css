@@ -4,10 +4,10 @@
 }
 
 body {
-  background-color: aliceblue;
+  background-image:url("https://cdn.glitch.global/3a8a41d1-efcc-4dc1-843e-fe8879969838/b2c8990c-6b9d-4004-8d40-7aa7b66da3a3.image.png?v=1739304497839");
   text-align: center;
   color: navy;
-  margin: auto;
+  margin:auto;
   font-family: water;
 }
 
@@ -15,12 +15,18 @@ h1{
   font-size: 30px;
 }
 
+h2{
+  color:rgb( 137,207,240);
+    border:white
+}
+
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
-  background-size: 600px 400px;
-  border-radius: 300px;
+  background-image: url("https://media1.tenor.com/m/RjfK8P70HykAAAAC/baluk.gif");
+  background-size: 900px 600px;
+  border-radius: 400px;
   border: 5px solid white;
 }
+
 
 
 
