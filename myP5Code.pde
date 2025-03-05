@@ -31,7 +31,7 @@ draw = function(){
 
 //🟢mouseClicked Function - will run when mouse is clicked
 mouseClicked = function(){
-
+drawFishy(mouseX,mouseY);
 }
 
 //🟡drawFish Function - will run when called
